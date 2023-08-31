@@ -20,6 +20,6 @@ The project's experience could be significantly enhanced with the presence of a 
 ```
 
 ## Acknowledgment
-This repo benefits from Meta's [Segment Anything](https://github.com/facebookresearch/segment-anything). Thanks for their great work.
+This repo benefits from Meta's [Segment Anything](https://github.com/facebookresearch/segment-anything) and [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM). Thanks for their great work.
 
 
